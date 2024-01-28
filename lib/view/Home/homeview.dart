@@ -35,7 +35,7 @@ class _HomeViewState extends State<HomeView> {
           style: TextStyle(color: Colors.white),
         ),
         iconTheme: IconThemeData(
-          color: Colors.white, // Change this to the color you desire
+          color: Colors.white,
         ),
       ),
       body: Padding(
